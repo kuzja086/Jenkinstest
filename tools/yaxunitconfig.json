@@ -1,0 +1,8 @@
+{
+    "filter": {
+        "extensions": ["ЮнитТесты"]
+    },
+    "reportPath": "C:\\temp\\jUnit\\report.xml",
+    "reportFormat": "jUnit",
+    "closeAfterTests": true
+}
