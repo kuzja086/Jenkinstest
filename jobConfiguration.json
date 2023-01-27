@@ -1,0 +1,12 @@
+{
+    "$schema": "https://raw.githubusercontent.com/firstBitSemenovskaya/jenkins-lib/master/resources/schema.json",
+    "srcDir" : "src/cf",
+    "sourceFormat": "designer",
+    "v8version": "8.3.21.1622",
+    "stages":{
+        "yaxunit" : true
+    },
+    "initInfobase": {
+        "initMethod": "fromSource"
+    }
+}
