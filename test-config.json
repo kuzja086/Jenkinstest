@@ -1,0 +1,6 @@
+{
+    "filter": {
+        "extensions": ["test"]
+    },
+    "reportPath": "F:\\Jenkins\\workspace\\tests_master\\build\\out\\jUnit\\yaxunit\\yaxunit.xml"
+}
