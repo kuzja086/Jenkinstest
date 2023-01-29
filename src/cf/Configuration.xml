@@ -211,6 +211,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>ОбщийМодуль1</CommonModule>
+			<CommonModule>СтроковыеФункцииКлиентСервер</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

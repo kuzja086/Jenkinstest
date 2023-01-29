@@ -3,7 +3,9 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.ОбщийМодуль1" id="37645735-eb6e-4d01-a2c3-a53f77ebf8bc" configVersion="83c15764f9d25e4c8059d7aff136c91300000000"/>
 		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="37645735-eb6e-4d01-a2c3-a53f77ebf8bc.0" configVersion="e9fed0d04be24f468e1378053e4720b200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="500f8af4-a5dc-4cf5-a93e-502a9d492829" configVersion="0121a03e018b674d9bf98dc88f3da37500000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="d0452d19-8e31-4fbb-8a58-03f6528be42e" configVersion="383134ca0555914db35f2b1c2a6112b800000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="d0452d19-8e31-4fbb-8a58-03f6528be42e.0" configVersion="9002ee99af723c49aff691a8a190705800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="500f8af4-a5dc-4cf5-a93e-502a9d492829" configVersion="ad81354561e07c42a16fc2125d1ee1c900000000"/>
 		<Metadata name="Language.Русский" id="ab78af67-ee99-4f50-a0da-3d27ec011938" configVersion="a28d18f94440b74c91e7d783c0ce294600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
